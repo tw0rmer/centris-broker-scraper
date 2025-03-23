@@ -54,7 +54,7 @@ Whether you're a Python enthusiast or a seasoned developer, this project provide
 Run the script:
 
 ```bash
-python sel_scrapper.py
+python broker_scraper.py
 ```
 
 You'll be prompted to provide:
